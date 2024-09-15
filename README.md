@@ -1,1 +1,1 @@
-Have used different models to comapre accuracy.
+Have used different models to compare accuracy.
